@@ -18,7 +18,7 @@ var g = canvas.append('g')
 
 var face = g.append("circle")
 			 			.attr("r",height/2)
-			 			.attr("fill","red")
+			 			.attr("fill","yellow")
 						.attr("stroke","black");
 //grouping the eye brow element
 var eyesG = g.append('g')
